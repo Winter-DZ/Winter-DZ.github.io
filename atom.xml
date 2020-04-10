@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://winter-dz.github.io</id>
-    <title>Winter_小Z&apos;blog  </title>
-    <updated>2020-04-10T06:27:33.083Z</updated>
+    <title>Winter_小Z</title>
+    <updated>2020-04-10T06:30:56.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://winter-dz.github.io"/>
     <link rel="self" href="https://winter-dz.github.io/atom.xml"/>
     <subtitle>生而为人，何以为人</subtitle>
     <logo>https://winter-dz.github.io/images/avatar.png</logo>
     <icon>https://winter-dz.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Winter_小Z&apos;blog  </rights>
+    <rights>All rights reserved 2020, Winter_小Z</rights>
 </feed>

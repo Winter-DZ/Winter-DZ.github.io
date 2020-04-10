@@ -2003,19 +2003,19 @@ body {
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #eeeeeefe;
     }h1, h2, h3, h4, h5, h6 {
-      color: #555;
+      color: #343a40;
     }
     
     .archive-timeline-title::before {
-      background-color: #555;
+      background-color: #343a40;
     }
     
     .post-title-link::before {
-      background-color: #555;
+      background-color: #343a40;
     }
     
     .node-title::before {
-      background-color: #555;
+      background-color: #343a40;
     }a {
       color: #555;
     }
@@ -2105,6 +2105,4 @@ body {
     }
     .mist .site-title i {
       background: #FFFFFFfe;
-    }.box-shadow-wrapper {
-      box-shadow: none !important;
     }
