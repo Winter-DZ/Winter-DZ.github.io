@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://winter-dz.github.io</id>
     <title>Winter_小Z</title>
-    <updated>2020-07-11T05:51:24.641Z</updated>
+    <updated>2020-07-11T05:55:54.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://winter-dz.github.io"/>
     <link rel="self" href="https://winter-dz.github.io/atom.xml"/>
@@ -10,11 +10,4 @@
     <logo>https://winter-dz.github.io/images/avatar.png</logo>
     <icon>https://winter-dz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Winter_小Z</rights>
-    <entry>
-        <title type="html"><![CDATA[对于爱情，或者初恋的看法]]></title>
-        <id>https://winter-dz.github.io/post/dui-yu-ai-qing-huo-zhe-chu-lian-de-kan-fa/</id>
-        <link href="https://winter-dz.github.io/post/dui-yu-ai-qing-huo-zhe-chu-lian-de-kan-fa/">
-        </link>
-        <updated>2020-04-10T06:49:40.000Z</updated>
-    </entry>
 </feed>
